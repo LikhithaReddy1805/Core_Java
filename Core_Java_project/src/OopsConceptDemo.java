@@ -10,6 +10,7 @@ public class OopsConceptDemo {
 	public void setSerialNum(int serialNum) {
 		this.serialNum = serialNum;
 	}
+
 	public String getName() {
 		return name;
 	}
