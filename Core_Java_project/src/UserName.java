@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-/**
- * 
- */
 public class UserName {
 
 	public static void main(String[] args) {
